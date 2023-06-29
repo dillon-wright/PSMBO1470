@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_xW_6cRZ8Ee648IPzhg9NXw" label="PSMBO1470" language="java" technicalLabel="PSMBO1470" author="_xW_6chZ8Ee648IPzhg9NXw" productVersion="Talend Cloud Data Fabric-8.0.1.20230612_1054-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/dillon-wright/PSMBO1470&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_xXmXYBZ8Ee648IPzhg9NXw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_xW_6chZ8Ee648IPzhg9NXw" login="dwright.talend.com@rd.aws.au.talend.com" firstName="Dillon" lastName="Wright" type="DQ"/>
+</xmi:XMI>
